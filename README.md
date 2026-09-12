@@ -1,2 +1,2 @@
-# SwitchScene-Game
+# GameCodes
 GameCodes
